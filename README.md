@@ -10,11 +10,11 @@ Generating synthetic data, using PASCAL VOC and YOLO annotation formats
 
 ## Setup Instructions
 
-### Install UnrealEngine
+### Install Simbotic Engine
 
 ```
-git clone -b release git@github.com:EpicGames/UnrealEngine.git
-cd UnrealEngine
+git clone -b Simbotic/4.24 git@github.com:Simbotic/SimboticEngine.git
+cd SimboticEngine
 ./Setup.sh
 ./GenerateProjectFiles.sh
 make
