@@ -30,11 +30,15 @@ public class DynamicalSystems : ModuleRules
         PrivateDependencyModuleNames.AddRange(
             new string[]
             {
+                "Core",
                 "CoreUObject",
                 "Engine",
+                "InputCore",
                 "Slate",
                 "SlateCore",
-                "XmlParser"
+                "XmlParser",
+                "RHI",
+                "RenderCore",
 				// ... add private dependencies that you statically link with here ...	
 			}
             );

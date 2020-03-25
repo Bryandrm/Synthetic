@@ -32,9 +32,9 @@ git clone git@github.com:VertexStudio/Synthetic.git
 
 Environment variables:
 
-Execute `setup` script to include the following inside your `.bashrc` file:
+Execute `setup /path/to/SimboticEngine` script to include the following inside your `.bashrc` file:
 ```
-export UE4_ROOT=/path/to/UE4.22
+export UE4_ROOT=/path/to/SimboticEngine
 export UE4_SYNTHETIC=/path/to/Synthetic
 ```
 

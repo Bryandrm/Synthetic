@@ -1,6 +1,7 @@
 #include "DynamicsCommon.h"
 #include "DetectableActor.h"
 #include "XmlParser/Public/XmlFile.h"
+#include "Engine/StaticMesh.h"
 
 struct FDetectableObject {
       UDetectableActor* DetectableActor;
