@@ -12,5 +12,15 @@
 				"Engine"
 			]
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "GStreamerLoader",
+			"Enabled": true
+		},
+		{
+			"Name": "GStreamer",
+			"Enabled": true
+		}
 	]
 }
